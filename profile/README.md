@@ -47,6 +47,7 @@ and a proposed next task that AI can help draft, implement or test.
 - [Selected Organization Projects](#selected-organization-projects)
 - [JFX Portfolio Integration Proposal](profile/docs/propuesta-integracion-portafolio-jfx.md)
 - [Model Serving and Open-Model Stack](profile/docs/model-serving-and-open-model-stack.md)
+- [Local Economies & Barter Integration Candidates](profile/docs/robotics-integration-candidates.md)
 - [Categorized Robotics Integration Candidates](profile/docs/robotics-integration-candidates.md)
 - [Web Graphics and 3D Integration Proposal](profile/docs/propuesta-integracion-graficos-webfx.md)
 - [Technology Stack](#technology-stack)
