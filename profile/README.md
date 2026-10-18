@@ -45,16 +45,16 @@ and a proposed next task that AI can help draft, implement or test.
   - [Polyglot Language Projects](#polyglot-language-projects)
   - [3D Modeling, CAD and Educational Visualization](#3d-modeling-cad-and-educational-visualization)
 - [Selected Organization Projects](#selected-organization-projects)
-- [JFX Portfolio Integration Proposal](docs/propuesta-integracion-portafolio-jfx.md)
-- [Model Serving and Open-Model Stack](docs/model-serving-and-open-model-stack.md)
-- [Categorized Robotics Integration Candidates](docs/robotics-integration-candidates.md)
-- [Web Graphics and 3D Integration Proposal](docs/propuesta-integracion-graficos-webfx.md)
+- [JFX Portfolio Integration Proposal](profile/docs/propuesta-integracion-portafolio-jfx.md)
+- [Model Serving and Open-Model Stack](profile/docs/model-serving-and-open-model-stack.md)
+- [Categorized Robotics Integration Candidates](profile/docs/robotics-integration-candidates.md)
+- [Web Graphics and 3D Integration Proposal](profile/docs/propuesta-integracion-graficos-webfx.md)
 - [Technology Stack](#technology-stack)
 - [Collaboration](#collaboration)
 
 ## Public projects and AI-assisted backlog
 
-[Complete Markdown register](https://github.com/sdk2035/sdk2035/blob/main/docs/public-projects-and-cad-backlog.md) — reviewed 2026-10-15: **77 public projects** (29 personal and 48 organizational), **75 open issues**, **1 project draft** and the specification audit for **62 CAD concepts**. The register is a historical snapshot; GraalRust and GraalGo were added on 2026-10-12 and are documented in the [LLVM/Sulong supplement](docs/llvm-language-projects.md). The register links each repository, project, initial work item and proposed next iteration, and records missing or partial Markdown specifications.
+[Complete Markdown register](https://github.com/sdk2035/sdk2035/blob/main/docs/public-projects-and-cad-backlog.md) — reviewed 2026-10-15: **77 public projects** (29 personal and 48 organizational), **75 open issues**, **1 project draft** and the specification audit for **62 CAD concepts**. The register is a historical snapshot; GraalRust and GraalGo were added on 2026-10-12 and are documented in the [LLVM/Sulong supplement](profile/docs/llvm-language-projects.md). The register links each repository, project, initial work item and proposed next iteration, and records missing or partial Markdown specifications.
 
 ## Engineering Focus
 
@@ -228,7 +228,7 @@ dependencies. Go uses TinyGo as a research candidate; the standard Go compiler
 is not the proposed bitcode producer. Bitcode generation alone establishes
 neither full language support nor successful Sulong execution.
 
-[LLVM/Sulong research specification](docs/llvm-language-projects.md)
+[LLVM/Sulong research specification](profile/docs/llvm-language-projects.md)
 
 ### Polyglot Language Projects
 
