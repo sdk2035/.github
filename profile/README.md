@@ -47,6 +47,7 @@ and a proposed next task that AI can help draft, implement or test.
 - [Selected Organization Projects](#selected-organization-projects)
 - [JFX Portfolio Integration Proposal](profile/docs/propuesta-integracion-portafolio-jfx.md)
 - [Proposal for Technological Integration within the Organizational Portfolio: An Ecosystem of Marine Robotics, AI, and Autonomous Systems](profile/docs/propuesta-integracion-portafolio-sdk2035.md)
+- [Unified architecture for MLOps, agent-based automation, robotic simulation, and transactional payment gateways (ISO 8583 / ISO 20022)](profile/integration-architecture-proposal.md)
 - [Model Serving and Open-Model Stack](profile/docs/model-serving-and-open-model-stack.md)
 - [Local Economies & Barter Integration Candidates](profile/docs/barter-and-local-economies-integration-candidates.md)
 - [Categorized Robotics Integration Candidates](profile/docs/robotics-integration-candidates.md)
