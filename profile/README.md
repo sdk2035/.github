@@ -46,6 +46,7 @@ and a proposed next task that AI can help draft, implement or test.
   - [3D Modeling, CAD and Educational Visualization](#3d-modeling-cad-and-educational-visualization)
 - [Selected Organization Projects](#selected-organization-projects)
 - [JFX Portfolio Integration Proposal](profile/docs/propuesta-integracion-portafolio-jfx.md)
+- [Proposal for Technological Integration within the Organizational Portfolio: An Ecosystem of Marine Robotics, AI, and Autonomous Systems](profile/docs/propuesta-integracion-portafolio-sdk2035.md)
 - [Model Serving and Open-Model Stack](profile/docs/model-serving-and-open-model-stack.md)
 - [Local Economies & Barter Integration Candidates](profile/docs/barter-and-local-economies-integration-candidates.md)
 - [Categorized Robotics Integration Candidates](profile/docs/robotics-integration-candidates.md)
