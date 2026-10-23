@@ -45,6 +45,7 @@ and a proposed next task that AI can help draft, implement or test.
 - [JFX Portfolio Integration Proposal](profile/docs/propuesta-integracion-portafolio-jfx.md)
 - [Architecture Proposal: "Context-Aware Native AI Agent with MCP and FinOps for Microsoft Dynamics 365 F&O"](profile/docs/ai-native-erp-mcp-integration-proposal.md)
 - [Proposal for Technological Integration within the Organizational Portfolio: An Ecosystem of Marine Robotics, AI, and Autonomous Systems](profile/docs/propuesta-integracion-portafolio-sdk2035.md)
+- [Proposal for Technological Integration and Ecosystem Alignment within the Organizational Portfolio: Unifying AI, Enterprise Systems, and Autonomous Platforms](profile/docs/REPOSITORY_INTEGRATION_PROPOSAL.md)
 - [Unified architecture for MLOps, agent-based automation, robotic simulation, and transactional payment gateways (ISO 8583 / ISO 20022)](profile/docs/integration-architecture-proposal.md)
 - [Model Serving and Open-Model Stack](profile/docs/model-serving-and-open-model-stack.md)
 - [Local Economies & Barter Integration Candidates](profile/docs/barter-and-local-economies-integration-candidates.md)
