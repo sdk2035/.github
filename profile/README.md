@@ -305,6 +305,8 @@ adopting a component.
 
 ## Collaboration
 
+[![GitHub Team - RIS Community Innovation](https://img.shields.io/badge/Team-ris--community--innovation-blue?logo=github)](https://github.com/orgs/robotics-intelligent-systems/teams/ris-community-innovation)
+
 I welcome conversations about:
 
 - **Remote engineering roles:** software architecture, senior/staff engineering and AI systems leadership.
