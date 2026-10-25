@@ -26,7 +26,9 @@ The project tables below show the current evidence, an indicative delivery stage
 and a proposed next task that AI can help draft, implement or test.
 
 ## Explore
+
 - [Accelerated Industrial Development Plan](profile/AIDS.fodt)
+- [Model-Oriented Methodology and Metaprogramming in Rascal](profile/docs/Model-Oriented Methodology and Metaprogramming in Rascal.md)
 - [Public projects and AI-assisted backlog](#public-projects-and-ai-assisted-backlog)
 - [Engineering Focus](#engineering-focus)
 - [Personal Project Portfolio](#personal-project-portfolio)
