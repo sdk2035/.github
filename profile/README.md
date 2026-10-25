@@ -28,7 +28,7 @@ and a proposed next task that AI can help draft, implement or test.
 ## Explore
 
 - [Accelerated Industrial Development Plan](profile/AIDS.fodt)
-- [Model-Oriented Methodology and Metaprogramming in Rascal](profile/docs/Model-Oriented Methodology and Metaprogramming in Rascal.md)
+- [Model-Oriented Methodology and Metaprogramming in Rascal](profile/docs/Model-Oriented%20Methodology%20and%20Metaprogramming%20in%20Rascal.md)
 - [Public projects and AI-assisted backlog](#public-projects-and-ai-assisted-backlog)
 - [Engineering Focus](#engineering-focus)
 - [Personal Project Portfolio](#personal-project-portfolio)
